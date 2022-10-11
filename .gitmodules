@@ -1,6 +1,0 @@
-[submodule "tensorflow/models"]
-	path = tensorflow/models
-	url = https://github.com/tensorflow/models/
-[submodule "tensorflow/TF_FeatureExtraction"]
-	path = tensorflow/TF_FeatureExtraction
-	url = https://github.com/tomrunia/TF_FeatureExtraction
