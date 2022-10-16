@@ -1,2 +1,9 @@
 .DS_Store
 /example_data/thg_l1_asf_rank_2008021005_v01.cdf
+.ipynb_checkpoints/
+example_data/rank_asf_2010021005_images/
+fsmi_mag_data_2008-02/
+mag_data_2008-02-10/
+oath_training_data/
+tame/.ipynb_checkpoints/
+tame/data/
