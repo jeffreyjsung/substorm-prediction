@@ -9,14 +9,14 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
-MAGN_PATH = "data/magn/"
-CEIL_PATH = "data/ceil/"
-ASIM_PATH = "data/asim/"
-OATH_PATH = "data/oath/"
-DATA_PATH = "data/other/"
-TORCH_PATH = "data/torch/"
-IMAGE_PATH = "data/images/"
-CONFIG_FILE = "dataHandler/config.ini"
+MAGN_PATH = "tame/data/magn/"
+CEIL_PATH = "tame/data/ceil/"
+ASIM_PATH = "tame/data/asim/"
+OATH_PATH = "tame/data/oath/"
+DATA_PATH = "tame/data/other/"
+TORCH_PATH = "tame/data/torch/"
+IMAGE_PATH = "tame/data/images/"
+CONFIG_FILE = "tame/dataHandler/config.ini"
 
 
 class DataHandler:
